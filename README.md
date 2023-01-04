@@ -37,6 +37,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -55,6 +64,15 @@
     </td>
   </tr>
   <tr>
+  <td align="center" height="108" width="108">
+      <img
+        src="static/logos/ant-design-logo.svg"
+        width="48"
+        height="48"
+        alt="Ant Design"
+      />
+      <br /><strong>Ant Design</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -104,6 +122,15 @@
   <tr>
   <td align="center" height="108" width="108">
       <img
+        src="static/logos/vite.svg"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
+    </td>
+  <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
@@ -145,7 +172,7 @@
             height="48"
             alt="C++"
         />
-        <br /><strong>C++</strong>
+        <br /><strong>C / C++</strong>
     </td>
   </tr>
 </table>
