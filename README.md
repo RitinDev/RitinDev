@@ -4,8 +4,9 @@
     I'm Ritin, a Computer Science Major at New York University interested in full-stack software engineering and working with data. I'm passionate about creating intuitive and user-friendly web applications and meaningful data products. I'm looking for opportunities to apply my knowledge of web development, database design and data analysis in a professional environment. Feel free to reach out to me via <a href="mailto:rm5486@nyu.edu">email</a> or connect with me on <a href="https://www.linkedin.com/in/ritin-malhotra/">LinkedIn</a>!
 </div>
 
-# 🔧 Technologies & Tools
+# 🔧 Tools & Technologies
 
+<div align="center">
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -66,6 +67,15 @@
   <tr>
   <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+  </td>
+  <td align="center" height="108" width="108">
+      <img
         src="static/logos/ant-design-logo.svg"
         width="48"
         height="48"
@@ -109,7 +119,9 @@
       />
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -117,9 +129,7 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-  </tr>
-  <tr>
+  </td>
   <td align="center" height="108" width="108">
       <img
         src="static/logos/vite.svg"
@@ -128,15 +138,6 @@
         alt="Vite"
       />
       <br /><strong>Vite</strong>
-    </td>
-  <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
     </td>
   <td align="center" height="108" width="108">
       <img
@@ -176,12 +177,14 @@
     </td>
   </tr>
 </table>
+</div>
 
 # 📈 Stats
-
+<div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=ritindev&show_icons=true&theme=react&hide=stars&hide_border=true"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=ritindev&&theme=react&&hide_border=true"
 />
+</div>
