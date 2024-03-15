@@ -14,17 +14,6 @@
 
 <div align="center">
 <table>
-                <thead>
-                    <tr>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                        <th scope="col"></th>
-                    </tr>
-                </thead>
                 <tbody>
                     <tr>
                         <td align="center" height="108" width="108">
