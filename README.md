@@ -204,7 +204,7 @@
                         <td align="center" height="108" width="108">
                             <img
                                 className='rust-logo switch-colors'
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+                                src="static/logos/rust-logo.svg"
                                 width="48"
                                 height="48"
                                 alt="Rust"
