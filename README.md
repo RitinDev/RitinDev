@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/ritin-malhotra/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &#8287;
   <a href="https://ritindev.github.io/project-portfolio/mail">
     <img src="https://img.shields.io/badge/-Email-E74A4A?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
