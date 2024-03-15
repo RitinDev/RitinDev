@@ -234,9 +234,11 @@
 # 📈 Stats
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ritindev&show_icons=true&theme=material-palenight&hide=stars&hide_border=true&rank_icon=github&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=ritindev&show_icons=true&theme=material-palenight&hide=stars&hide_border=true&rank_icon=github&include_all_commits=true" 
+  height="180"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritindev&exclude_repo=Applied-Data-Science&layout=compact&theme=material-palenight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritindev&exclude_repo=Applied-Data-Science&layout=compact&theme=material-palenight&hide_border=true" 
+  height="180"
 />
 </div>
